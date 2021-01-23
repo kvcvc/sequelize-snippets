@@ -1,0 +1,33 @@
+{
+  "name": "sequelize-snippets",
+  "displayName": "Sequelize Snippets",
+  "description": "VS Code Sequelize ORM snippets",
+  "version": "1.0.0",
+  "publisher": "kvcvc",
+  "author": "Kovačević Marko",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kvcvc/sequelize-snippets"
+  },
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+    "snippets",
+    "sequelize",
+    "node"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
