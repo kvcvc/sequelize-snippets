@@ -1,5 +1,9 @@
 # VS Code Sequelize ORM snippets
 
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/kvcvc.sequelize-snippets.svg)](https://vsmarketplacebadge.apphb.com/version-short/kvcvc.sequelize-snippets.svg)
+[![Install](https://vsmarketplacebadge.apphb.com/installs/kvcvc.sequelize-snippets.svg)](https://vsmarketplacebadge.apphb.com/installs-short/kvcvc.sequelize-snippets.svg)
+
 This extension provides you Sequelize ORM snippets in ES6 for VS Code
 
 ## Installation
